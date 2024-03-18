@@ -41,3 +41,7 @@ love main.lua
 ---
 ### Follow Me!
 💙 Instagram: [@izzyluuuuh](https://www.instagram.com/izzyluuuuh/)
+
+---
+
+![Pong Preview](https://github.com/izzyluuuuh/Pong/assets/103919666/cca6b708-2584-431b-a768-ef15a0a097a4)
